@@ -1,3 +1,7 @@
+<img width="1920" height="1032" alt="Captura de tela 2025-11-28 193930" src="https://github.com/user-attachments/assets/decd5e82-4848-40a2-9119-45a951f15500" />
+
+
+
 # SERVIDOR
 
 npm init -y
